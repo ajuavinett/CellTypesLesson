@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 ## Information about Allen Institute Cell Types Dataset
