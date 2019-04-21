@@ -4,7 +4,7 @@ In the first part of the lesson, you'll interact with the Allen Institute websit
 
 ### Background Information
 * <a href="http://www.github.com/ajuavinett/CellTypesLesson/cell_types">About the Allen Institute Cell Types Dataset</a>
-* <a href="http://www.github.com/ajuavinett/CellTypesLesson/computing_basics">Computing Basics</a>.
+* <a href="https://ajuavinett.github.io/BIPN145/computing_basics">Computing Basics</a>.
 
 ---
 
