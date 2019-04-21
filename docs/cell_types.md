@@ -1,8 +1,8 @@
 ---
-layout: "page"
-title: About the Allen Institute Cell Types Dataset
-permalink: /cell_types
-theme: jekyll-theme-cayman
+# layout: "page"
+# title: About the Allen Institute Cell Types Dataset
+# permalink: /cell_types
+# theme: jekyll-theme-cayman
 ---
 
 ## Information about Allen Institute Cell Types Dataset
