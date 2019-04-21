@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-caymann
+
+---
+
 # Electrophysiological signatures of cell types in mouse & humans
 
 ## Table of contents
