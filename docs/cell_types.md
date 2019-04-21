@@ -1,5 +1,6 @@
 ---
-layout: default
+theme: jekyll-theme-caymann
+
 ---
 
 ## Information about Allen Institute Cell Types Dataset
