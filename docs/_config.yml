@@ -5,6 +5,6 @@ docs_list_title: Documentation
 docs:
 
 - title: Cell Types
-  url: cell_types.html
+  url: cell_types
   
 ---
