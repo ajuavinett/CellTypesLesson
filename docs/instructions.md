@@ -29,18 +29,25 @@ In this lab, we’ll look at open-source data from mouse and human recordings in
 Before we go behind the scenes, we’ll look at a few cells on the Allen online interface to get a feel for what the data looks like.
 
 1. Go to http://celltypes.brain-map.org/. Read through “About Electrophysiology” and “About Morphology” to answer questions 1 and 2 in the Data Notebook.
-2. Scroll down to “Download Single Cell Data and Models” and the section “Morphology and Electrophysiology” and click on Electrophysiology Page.
-This page shows us all of the electrophysiology data for one sample cell that they have recorded from.
+
+2. Scroll down to “Download Single Cell Data and Models” and the section “Morphology and Electrophysiology” and click on Electrophysiology Page. This page shows us all of the electrophysiology data for one sample cell that they have recorded from.
+
 3. On the top, you’ll see a Mouse Line, Brain Area, and Layer where this cell comes from. Note them in Table 1.
 The Mouse Line tells us the Cre-driver line that was used — in other words, the cells that they targeted had that gene, and therefore they also expressed Cre-recombinase. Go to https://www.ncbi.nlm.nih.gov/gene/ and search for the name of this gene (without -Cre) to answer question 3.
 This page also gives us some key details about the cell. Note the resting membrane potential in Table 1.
+
 4. Click through the stimulus sweeps (the colored boxes) to find the first one that elicited an action potential.
 Record the minimum stimulus amplitude required to elicit an action potential in this cell in Table 1.
 * Note: You should notice that this value is either very close or identical to the rheobase of the cell, as reported on the table on the top. As a reminder, the rheobase is defined as the minimum current needed to elicit an action potential. When the current is below the rheobase, an action potential will never occur regardless of how long the stimulation is.
+
 5. Click through to a stimulus sweep with a higher current injection. Does the cell adapt to the stimulus? In other words, does the space between spikes increase? Is there a metric here that would help quantify this? Record that metric in Table 1.
+
 6. Use the dropdown menu on the left to change the stimulus type to “Short square.” Record the minimum current needed to elicit an action potential at this stimulus, and answer question 4.
+
 7. Use the dropdown menu on the left to change the stimulus type to “Noise.” Take a look at the current injection trace to get an idea of what this stimulus looks like. Note the differences between the cell’s response to this stimulus versus the square wave pulses. Answer question 5.
+
 8. Click on View Morphology on the right, to check out the morphology of this cell. Take note of the distribution of the axon and the dendrites. Close this window.
+
 9. Click on Cell Feature Search on the top right corner. Here, you can look through other cells in this dataset. Find a cell from human tissue that is in the same Layer and has the same Dendrite Type as the first cell you looked at. Use the data on that page to fill out Table 1.
 
 ### Part II. Accessing the Allen SDK
@@ -50,11 +57,15 @@ If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise
 
 #### Option 1: From the UCSD Data Hub
 1. While either on campus or connected via VPN, go to http://datahub.ucsd.edu and log in.
+
 2. You’ll land on a page where you’re asked to choose a container to spawn. Choose the one that says BIPN 145.
+
 3. On the Jupyter home page, go to New > Terminal (upper right corner).
+
 4. Type  `> git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
 to clone the lab codebase into your folder.
 * Note: You don’t need the “>“ — that’s just to indicate where the line starts.
+
 5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder BIPN 145. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
 * Note: When you’re all done, go to the Running tab and Shutdown all of your terminal & notebook processes:
 
