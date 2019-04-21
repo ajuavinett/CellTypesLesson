@@ -10,7 +10,7 @@ In the first part of the lesson, you'll interact with the Allen Institute websit
 
 ### 2. Complete the introduction to Jupyter Notebooks
 
-### 3. Use the Allen's web interface to look at two different cells
+### 3. Follow <a href="http://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells
 
 ### 4. Dive into a Jupyter Notebook to analyze data however you'd like!
 
