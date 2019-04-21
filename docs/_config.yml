@@ -1,10 +1,2 @@
-theme: jekyll-theme-cayman
-
----
-docs_list_title: Documentation
-docs:
-
-- title: Cell Types
-  url: cell_types
-  
----
+theme: jekyll-theme-caymann
+markdown: kramdown
