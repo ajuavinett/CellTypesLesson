@@ -32,5 +32,5 @@ You'll find many different metrics describing what happens when the Allen resear
 ---
 
 ## Resources
-https://www.jax.org/news-and-insights/2006/may/the-cre-lox-and-flp-frt-systems
+* <a href="https://www.jax.org/news-and-insights/2006/may/the-cre-lox-and-flp-frt-systems">Jax Explanation of Cre-Lox systems</a>
 
