@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 ---
 
 # Computing Basics
-By using this Jupyter Notebook, you're encountering quite a few different elements of coding. Here are a few useful things to know.<a href="http://ajuavinett.github.io/BIPN145/computing_basics">[link]</a>.
+By using this Jupyter Notebook, you're encountering quite a few different elements of coding. Here are a few useful things to know.
 
 ### Software Development Kits
 In this notebook, we're interacting with the Allen Institute's Software Development Kit (SDK). SDKs provide a set of tools, libraries, documentation, code samples, processes, and or guides that allow developers to create software applications. The AllenSDK is really useful because it enables us to interact with their raw data as well as any computed metrics they've already created.
