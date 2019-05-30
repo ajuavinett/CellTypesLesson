@@ -1,7 +1,7 @@
 # Electrophysiological signatures of cell types in mouse & humans
 
 ## Table of contents
-<p>
+
 [Background](#background)
 [Part I: Accessing the Allen Cell Types Dataset on their website](#part-i)<p>
 [Part II. Accessing the Allen SDK](#part-ii)<p>
