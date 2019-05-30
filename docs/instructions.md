@@ -56,12 +56,12 @@ If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise
 
 3. On the Jupyter home page, go to New > Terminal (upper right corner).
 
-4. Type  `>git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
+4. Type  `git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
 to clone the necessary codebase into your folder.
-<u>Note</u>: You don’t need the “>“ — that’s just to indicate where the line starts.
 
 5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder BIPN 145. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
-* Note: When you’re all done, go to the Running tab and Shutdown all of your terminal & notebook processes:
+
+6. When you’re done, go to the Running tab and Shutdown all of your terminal & notebook processes.
 
 #### Option 2: From a local computer
 If you’d like to access the SDK locally, follow these steps. 
@@ -71,19 +71,18 @@ If you’d like to access the SDK locally, follow these steps.
 2. Make sure that you have Git (https://git-scm.com/download/win) installed on your computer. You can click “Next” through all of the options.
 3. Open an Anaconda Prompt window. This will open a new Python terminal.
 * Hint: Search for “Anaconda” in Windows and you should see come up as an option.
-4. Change directories into your Documents folder by typing `> cd Documents`
-* Note: You don’t need the “>“ — that’s just to indicate where the line starts.
-5. Make a new folder for your Python notebooks by entering  `> mkdir PythonNotebooks`
+4. Change directories into your Documents folder by typing `cd Documents`
+5. Make a new folder for your Python notebooks by entering  `mkdir PythonNotebooks`
 6. Check that your folder is there with the command dir. You should see PythonNotebooks in the list.
 7. Move into your PythonNotebooks folder by using > cd PythonNotebooks
 8. Next, we’ll clone the necessary Python notebooks into your Documents directory.
-9. Type  `>git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
+9. Type  `git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
 to clone the lab codebase into your folder.
 10. Next, we need to install the allenSDK tools. Open a new Terminal window (if you’re in Windows, it needs to be an Anaconda terminal window) and type 
-`>pip install --user allenSDK`
-* Note: If you receive an error, try `>pip install allenSDK`
+`pip install --user allenSDK`
+<u>Note</u>: If you receive an error, try `pip install allenSDK`
 11. After the allenSDK package has installed, you can open Jupyter Notebook in two ways:
-* In Terminal,  type `>jupyter notebook`
+* In Terminal,  type `jupyter notebook`
 * Open the Anaconda Navigator, and click on Jupyter Notebook.
 12. A Jupyter Notebook landing page (the Dashboard) should open.
 13. On the dashboard, you should now see a folder BIPN 145. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
