@@ -1,13 +1,8 @@
 # Electrophysiological signatures of cell types in mouse & humans
 
-[Part I: Accessing the Allen Cell Types Dataset on their website](#part-i)<br/> 
-[Part II. Accessing the Allen SDK](#part-ii)<br/>
-[Data Notebook](#data-notebook)
-
 <b>Before starting this lesson</b>, you should complete the <a href="https://www.codecademy.com/learn/learn-python-3">CodeAcademy tutorial for Python3 syntax</a>, or a similar tutorial that covers the basics of variables, `print ( )`, and arithmetic in Python.
 
-### Part I.
-#### Accessing the Allen Cell Types Dataset on their website
+### Part I.Accessing the Allen Cell Types Dataset on their website
 Before we go behind the scenes, we’ll look at a few cells on the Allen online interface to get a feel for what the data looks like.
 
 1. Go to <a href="http://celltypes.brain-map.org/">http://celltypes.brain-map.org/</a>. Read through “About Electrophysiology” and “About Morphology” to answer questions 1 and 2 in the Data Notebook.
@@ -32,8 +27,7 @@ Record the minimum stimulus amplitude required to elicit an action potential in 
 
 9. Click on Cell Feature Search on the top right corner. Here, you can look through other cells in this dataset. Find a cell from human tissue that is in the same Layer and has the same Dendrite Type as the first cell you looked at. Use the data on that page to fill out Table 1.
 
-###  Part II.
-#### Accessing the Allen SDK
+###  Part II. Accessing the Allen SDK
 We could spend all day going through the cells in the website database to find some interesting comparisons. But, it’s much quicker to do these comparisons by accessing the entire database directly, through the Allen Software Development Kit (SDK).
 
 If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise, you can run it locally on your computer.
