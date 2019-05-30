@@ -11,4 +11,4 @@ font:
     # external: true will load this font family from host.
     external: true
     family: Lato
-    size: 14
+    size: 20
