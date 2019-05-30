@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-[Background](#background) . 
-[Part I: Accessing the Allen Cell Types Dataset on their website](#part-i) . 
-[Part II. Accessing the Allen SDK](#part-ii) . 
+[Background](#background)<\br>
+[Part I: Accessing the Allen Cell Types Dataset on their website](#part-i)<\br> 
+[Part II. Accessing the Allen SDK](#part-ii)<\br>
 [Data Notebook](#data-notebook)
 
 ## Background
