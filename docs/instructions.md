@@ -1,21 +1,10 @@
 # Electrophysiological signatures of cell types in mouse & humans
 
-## Table of contents
-
-[Background](#background)<br/>
 [Part I: Accessing the Allen Cell Types Dataset on their website](#part-i)<br/> 
 [Part II. Accessing the Allen SDK](#part-ii)<br/>
 [Data Notebook](#data-notebook)
 
-## Background
-In this lab, we’ll look at open-source data from mouse and human recordings in order to compare cell types from these creatures. We’ll dive into some of the different structures of dendrites, and how these might relate to the shape of their action potentials, and ultimately their role in neural computation.
-
 <b>Before starting this lesson</b>, you should complete the <a href="https://www.codecademy.com/learn/learn-python-3">CodeAcademy tutorial for Python3 syntax</a>, or a similar tutorial that covers the basics of variables, `print ( )`, and arithmetic in Python.
-
-### Learning objectives:
-* Practice using Jupyter notebooks to run Python code and access the AllenSDK
-* Understand the metrics that we can use to compare cell types
-* Compare electrophysiological characteristics between humans and mice
 
 ### Part I.
 #### Accessing the Allen Cell Types Dataset on their website
