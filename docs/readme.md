@@ -13,8 +13,8 @@ In the first part of the lesson, you'll interact with the Allen Institute websit
 ## Steps to completing this lesson
 
 1. Read a bit about where this data comes from, and how we can interact with it
-* * <a href="https://ajuavinett.github.io/CellTypesLesson/background">About the Allen Institute Cell Types Dataset</a>
-* * <a href="https://github.com/ajuavinett/CellTypesLesson/wiki/Computing-Basics">Computing Basics</a>
+* <a href="https://ajuavinett.github.io/CellTypesLesson/background">About the Allen Institute Cell Types Dataset</a>
+* <a href="https://github.com/ajuavinett/CellTypesLesson/wiki/Computing-Basics">Computing Basics</a>
 
 2. Follow <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells.
 
