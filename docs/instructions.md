@@ -1,19 +1,11 @@
----
-theme: jekyll-theme-caymann
-
----
-
 # Electrophysiological signatures of cell types in mouse & humans
 
 ## Table of contents
-#### Background
-#### Part I. Accessing the Allen Cell Types Dataset on their website
-#### Part II. Accessing the Allen SDK
-##### * Option 1: From the UCSD Data Hub
-##### * Option 2: From a local computer
-#### Data Notebook
-
----
+<p>
+[Background](#background)
+[Part I: Accessing the Allen Cell Types Dataset on their website](#part-i)<p>
+[Part II. Accessing the Allen SDK](#part-ii)<p>
+[Data Notebook](#data-notebook)
 
 ## Background
 In this lab, we’ll look at open-source data from mouse and human recordings in order to compare cell types from these creatures. We’ll dive into some of the different structures of dendrites, and how these might relate to the shape of their action potentials, and ultimately their role in neural computation.
@@ -25,10 +17,11 @@ In this lab, we’ll look at open-source data from mouse and human recordings in
 * Understand the metrics that we can use to compare cell types
 * Compare electrophysiological characteristics between humans and mice
 
-### Part I. Accessing the Allen Cell Types Dataset on their website
+### Part I.
+#### Accessing the Allen Cell Types Dataset on their website
 Before we go behind the scenes, we’ll look at a few cells on the Allen online interface to get a feel for what the data looks like.
 
-1. Go to http://celltypes.brain-map.org/. Read through “About Electrophysiology” and “About Morphology” to answer questions 1 and 2 in the Data Notebook.
+1. Go to <a href="http://celltypes.brain-map.org/">http://celltypes.brain-map.org/</a>. Read through “About Electrophysiology” and “About Morphology” to answer questions 1 and 2 in the Data Notebook.
 
 2. Scroll down to “Download Single Cell Data and Models” and the section “Morphology and Electrophysiology” and click on Electrophysiology Page. This page shows us all of the electrophysiology data for one sample cell that they have recorded from.
 
@@ -50,7 +43,8 @@ Record the minimum stimulus amplitude required to elicit an action potential in 
 
 9. Click on Cell Feature Search on the top right corner. Here, you can look through other cells in this dataset. Find a cell from human tissue that is in the same Layer and has the same Dendrite Type as the first cell you looked at. Use the data on that page to fill out Table 1.
 
-### Part II. Accessing the Allen SDK
+###  Part II.
+#### Accessing the Allen SDK
 We could spend all day going through the cells in the website database to find some interesting comparisons. But, it’s much quicker to do these comparisons by accessing the entire database directly, through the Allen Software Development Kit (SDK).
 
 If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise, you can run it locally on your computer.
