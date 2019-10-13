@@ -56,3 +56,4 @@ Table 1.
 
 
 ### <a href="https://ajuavinett.github.io/CellTypesLesson/">Back to the start page</a>
+### <a href="https://ajuavinett.github.io/CellTypesLesson/computing">To the next step (Computing Basics)</a>
