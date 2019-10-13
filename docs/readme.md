@@ -10,13 +10,14 @@ In this computer lab, we’ll look at open-source data from mouse and human reco
 
 In the first part of the lesson, you'll interact with the Allen Institute website to compare different cell types. Then, you'll dive into the data yourself, to compare mouse and human cells.
 
+<i>Before diving in</i>, it would help to have very introductory working knowledge of Python. I'd recommend <a href="https://www.codecademy.com/learn/learn-python-3">this CodeAcademy tutorital for Python3</a>, which covers the basics of variables, `print()`, and arithmetic in Python.
+
 ## Steps to completing this lesson
 
 1. Read a bit about this dataset, here: <a href="https://ajuavinett.github.io/CellTypesLesson/background">About the Allen Institute Cell Types Dataset</a>
 
 2. Follow <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells.
 
-3. Learn about the basics of coding & using Jupyter notebooks: <a href="https://ajuavinett.github.io/CellTypesLesson/computing">Computing Basics</a><br/>
+3. Learn about the basics of coding & using Jupyter notebooks <a href="https://ajuavinett.github.io/CellTypesLesson/computing">here</a><br/> and work through a sample Jupyter notebook.
 
-
-3. Dive into a Jupyter Notebook to analyze data however you'd like! <i>Before starting this part</i>, you should complete the CodeAcademy tutorial for Python3 syntax, or a similar tutorial that covers the basics of variables, `print ( )`, and arithmetic in Python.
+5. Dive into <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/CellTypesNotebook.ipynb">this Jupyter Notebook</a> to analyze data however you'd like! Full instructions on how to do so are here.
