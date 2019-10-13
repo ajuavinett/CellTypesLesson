@@ -14,10 +14,14 @@ In the first part of the lesson, you'll interact with the Allen Institute websit
 
 ## Steps to completing this lesson
 
-1. Read a bit about this dataset, here: <a href="https://ajuavinett.github.io/CellTypesLesson/background">About the Allen Institute Cell Types Dataset</a>
+### Step 1. Understand how the data was collected.
+Read a bit about this dataset, here: <a href="https://ajuavinett.github.io/CellTypesLesson/background">About the Allen Institute Cell Types Dataset</a>
 
-2. Follow <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells.
+### Step 2. Compare cells using the Allen website.
+Follow <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells.
 
-3. Learn about the basics of coding & using Jupyter notebooks <a href="https://ajuavinett.github.io/CellTypesLesson/computing">here</a><br/> and work through a sample Jupyter notebook.
+### Step 3. Get familiar with coding & Jupyter notebooks.
+Learn about the basics of coding & using Jupyter notebooks <a href="https://ajuavinett.github.io/CellTypesLesson/computing">here</a><br/> and work through a sample Jupyter notebook.
 
-5. Dive into <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/CellTypesNotebook.ipynb">this Jupyter Notebook</a> to analyze data however you'd like! Full instructions on how to do so are here.
+### Step 4. Analyze the data for yourself!
+Dive into <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/CellTypesNotebook.ipynb">this Jupyter Notebook</a>! Full instructions on how to do so are <a href="http://ajuavinett.github.io/CellTypesLesson/jupyter_instructions">here</a>.
