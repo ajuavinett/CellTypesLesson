@@ -1,4 +1,4 @@
-###  Accessing the Allen SDK
+##  Accessing the Allen SDK
 We could spend all day going through the cells in the website database to find some interesting comparisons. But, it’s much quicker to do these comparisons by accessing the entire database directly, through the Allen Software Development Kit (SDK).
 
 If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise, you can run it locally on your computer.
@@ -40,3 +40,5 @@ to clone the lab codebase into your folder.
 * Open the Anaconda Navigator, and click on Jupyter Notebook.
 12. A Jupyter Notebook landing page (the Dashboard) should open.
 13. On the dashboard, you should now see a folder BIPN 145. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
+
+### <a href="https://ajuavinett.github.io/CellTypesLesson/">Back to the start page</a>
