@@ -1,8 +1,5 @@
-# Electrophysiological signatures of cell types in mouse & humans
+# Accessing the Allen Cell Types Dataset on their website
 
-<b>Before starting this lesson</b>, you should complete the <a href="https://www.codecademy.com/learn/learn-python-3">CodeAcademy tutorial for Python3 syntax</a>, or a similar tutorial that covers the basics of variables, `print ( )`, and arithmetic in Python.
-
-### Part I.Accessing the Allen Cell Types Dataset on their website
 Before we go behind the scenes, we’ll look at a few cells on the Allen online interface to get a feel for what the data looks like.
 
 1. Go to <a href="http://celltypes.brain-map.org/">http://celltypes.brain-map.org/</a>. Read through “About Electrophysiology” and “About Morphology” to answer questions 1 and 2 in the Data Notebook.
@@ -26,50 +23,6 @@ Record the minimum stimulus amplitude required to elicit an action potential in 
 8. Click on View Morphology on the right, to check out the morphology of this cell. Take note of the distribution of the axon and the dendrites. Close this window.
 
 9. Click on Cell Feature Search on the top right corner. Here, you can look through other cells in this dataset. Find a cell from human tissue that is in the same Layer and has the same Dendrite Type as the first cell you looked at. Use the data on that page to fill out Table 1.
-
-###  Part II. Accessing the Allen SDK
-We could spend all day going through the cells in the website database to find some interesting comparisons. But, it’s much quicker to do these comparisons by accessing the entire database directly, through the Allen Software Development Kit (SDK).
-
-If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise, you can run it locally on your computer.
-
-#### Option 1: From the UCSD Data Hub
-1. While either on campus or connected via VPN, go to <a href="http://datahub.ucsd.edu">http://datahub.ucsd.edu</a> and log in.
-
-2. You’ll land on a page where you’re asked to choose a container to spawn. Choose the container with your course name.
-
-3. On the Jupyter home page, go to New > Terminal (upper right corner).
-
-4. Type  `git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
-to clone the necessary codebase into your folder.
-
-5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder BIPN 145. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
-
-6. When you’re done, go to the Running tab and Shutdown all of your terminal & notebook processes.
-
-#### Option 2: From a local computer
-If you’d like to access the SDK locally, follow these steps. 
-<u>Note</u>: If you’re in BIPN145, you should do this lab through the Data Hub (Option 1 above).
-
-1. Make sure that you have the Anaconda Python 3.7 distribution (https://www.anaconda.com/download/) installed on your computer.
-2. Make sure that you have Git (https://git-scm.com/download/win) installed on your computer. You can click “Next” through all of the options.
-3. Open an Anaconda Prompt window. This will open a new Python terminal.
-* Hint: Search for “Anaconda” in Windows and you should see come up as an option.
-4. Change directories into your Documents folder by typing `cd Documents`
-5. Make a new folder for your Python notebooks by entering  `mkdir PythonNotebooks`
-6. Check that your folder is there with the command dir. You should see PythonNotebooks in the list.
-7. Move into your PythonNotebooks folder by using > cd PythonNotebooks
-8. Next, we’ll clone the necessary Python notebooks into your Documents directory.
-9. Type  `git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
-to clone the lab codebase into your folder.
-10. Next, we need to install the allenSDK tools. Open a new Terminal window (if you’re in Windows, it needs to be an Anaconda terminal window) and type 
-`pip install --user allenSDK`
-<u>Note</u>: If you receive an error, try `pip install allenSDK`
-11. After the allenSDK package has installed, you can open Jupyter Notebook in two ways:
-* In Terminal,  type `jupyter notebook`
-* Open the Anaconda Navigator, and click on Jupyter Notebook.
-12. A Jupyter Notebook landing page (the Dashboard) should open.
-13. On the dashboard, you should now see a folder BIPN 145. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
-
 
 
 ### Data Notebook
