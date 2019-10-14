@@ -14,7 +14,8 @@ If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise
 to clone the necessary codebase into your folder.
 
 5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder CellTypesLesson. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
-* <b>Note</b>: When you’re done, go to the Running tab and Shutdown all of your terminal & notebook processes.
+* <b>Note</b>: When you’re done, go to the Running tab and Shutdown all of your terminal & notebook processes (see orange "Shutdown button":<br><br>
+![](https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/close_notebooks.png?raw=true)
 
 #### Option 2: From a local computer
 If you’d like to access the SDK locally, follow these steps. 
