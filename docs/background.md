@@ -11,10 +11,12 @@ How did the Allen actually distinguish between different cell types? We can take
 ### Whole-cell patch clamp
 In order to listen to neurons, the Allen researchers guided glass electrodes towards their glowing neurons under a microscope. Instead of poking into the cell to listen to it, they lowered the electrode very close the cell, and created a tiny bit of suction to break the cell membrane. As a result, the internal cell space becomes continuous with the electrode and enables really clean recordings of the cell's activity. This technique is called <b>whole-cell</b> patch clamp. It's a tough technique, but one that has proven irreplacable in our understanding of how cells communicate.
 
-### Characterizing the electrophysiology of cells
-You'll find many different metrics describing what happens when the Allen researchers stimulated and recorded from different cells. Let's breakdown what a few of these properties are actually measuring.
+> <a href="https://youtu.be/TUoCQTwewVo">Watch a virtual tour of the Allen Brain Institute's whole cell patch clamping</a>
 
-| Codename                | Full definition   
+### Characterizing the electrophysiology of cells
+You'll find many different metrics describing what happens when the Allen researchers stimulated and recorded from different cells. Let's breakdown what a few of these properties are actually measuring:
+
+| Variable name                | Full definition   
 | -------------           |------------------------------------|
 | vrest                   | resting membrane potential         |
 | upstroke-downstroke     | ratio of action potential upstroke to downstroke |
@@ -22,18 +24,13 @@ You'll find many different metrics describing what happens when the Allen resear
 | avg_isi        | the mean value of all interspike intervals in a sweep |
 | trough_v_short_square | minimum value of the membrane potential during the after-hyperpolarization |
 
----
+There is also <a href="http://help.brain-map.org/download/attachments/8323525/CellTypes_Ephys_Overview.pdf">detailed Allen Brain Institute Documentation</a>
 
-## Resources
-* <a href="https://www.jax.org/news-and-insights/2006/may/the-cre-lox-and-flp-frt-systems">Jax Explanation of Cre-Lox systems</a>
-* <a href="http://help.brain-map.org/download/attachments/8323525/CellTypes_Ephys_Overview.pdf">Allen Brain Institute Documentation</a>
-
-## Sample publications with the Allen Cell Types dataset
+### Sample publications with the Allen Cell Types dataset
 * Kalmbach et al. (2018) “<a href="https://www.cell.com/neuron/fulltext/S0896-6273(18)30900-0">h-Channels Contribute to Divergent Intrinsic Membrane Properties of Supragranular Pyramidal Neurons in Human versus Mouse Cerebral Cortex</a>”
 * “<a href="https://www.biorxiv.org/content/early/2018/07/17/368456">Classification of electrophysiological and morphological types in mouse visual cortex</a>”
 * Hodge et al. (2018) “<a href="https://www.biorxiv.org/content/early/2018/08/05/384826">Conserved cell types with divergent features between human and mouse cortex</a>” 
 
 
 ## Navigation
-### <a href="https://ajuavinett.github.io/CellTypesLesson/">Back to the start page</a>
-### <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">To the next step (Allen Website)</a>
+### <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">To the next step (Navigating Data on the Allen Website)</a>
