@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+logo: https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/close_notebooks.png?raw=true
+
 
 defaults:
   # _pages
