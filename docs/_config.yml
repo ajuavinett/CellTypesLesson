@@ -74,7 +74,7 @@ plugins:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-#defaults:
+defaults:
 #  # _posts
 #  - scope:
 #      path: ""
@@ -121,7 +121,3 @@ font:
     external: true
     family: Lato
     size: 20
-
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
