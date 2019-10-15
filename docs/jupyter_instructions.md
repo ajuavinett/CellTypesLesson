@@ -22,7 +22,7 @@ If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise
 
 3. On the Jupyter home page, go to New > Terminal (upper right corner).
 
-4. Type ```git clone http://www.github.com/ajuavinett/CellTypesLesson.git```
+4. Type (all in one line): ```git clone http://www.github.com/ajuavinett/CellTypesLesson.git```
 to clone the necessary codebase into your folder.
 
 5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder CellTypesLesson. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook.
