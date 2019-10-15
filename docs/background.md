@@ -29,9 +29,9 @@ You'll find many different metrics describing what happens when the Allen resear
 * <a href="http://help.brain-map.org/download/attachments/8323525/CellTypes_Ephys_Overview.pdf">Allen Brain Institute Documentation</a>
 
 ## Sample publications with the Allen Cell Types dataset
-Kalmbach et al. (2018) “<a href="https://www.cell.com/neuron/fulltext/S0896-6273(18)30900-0">h-Channels Contribute to Divergent Intrinsic Membrane Properties of Supragranular Pyramidal Neurons in Human versus Mouse Cerebral Cortex</a>”
-“<a href="https://www.biorxiv.org/content/early/2018/07/17/368456">Classification of electrophysiological and morphological types in mouse visual cortex</a>” 
-Hodge et al., 2018. “<a href="https://www.biorxiv.org/content/early/2018/08/05/384826">Conserved cell types with divergent features between human and mouse cortex</a>” 
+* Kalmbach et al. (2018) “<a href="https://www.cell.com/neuron/fulltext/S0896-6273(18)30900-0">h-Channels Contribute to Divergent Intrinsic Membrane Properties of Supragranular Pyramidal Neurons in Human versus Mouse Cerebral Cortex</a>”
+* “<a href="https://www.biorxiv.org/content/early/2018/07/17/368456">Classification of electrophysiological and morphological types in mouse visual cortex</a>”
+* Hodge et al. (2018) “<a href="https://www.biorxiv.org/content/early/2018/08/05/384826">Conserved cell types with divergent features between human and mouse cortex</a>” 
 
 
 ## Navigation
