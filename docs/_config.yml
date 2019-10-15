@@ -76,12 +76,12 @@ plugins:
 
 defaults:
 #  # _posts
-#  - scope:
+  - scope:
 #      path: ""
 #      type: posts
-#    values:
+    values:
 #      layout: single
-#      author_profile: true
+      author_profile: true
 #      read_time: true
 #      comments: true
 #      share: true
