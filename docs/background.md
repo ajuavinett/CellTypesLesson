@@ -1,10 +1,3 @@
---
-sidebar:
-  nav: "docs"
---
-
-
-
 ## Information about Allen Institute Cell Types Dataset
 The dataset we'll be interacting with in this notebook was collected by the Allen Institute for Brain Science. I'd recommend watching this video so that you can see the people behind the data:
 
