@@ -21,7 +21,7 @@ Read a bit about this dataset, here: <a href="https://ajuavinett.github.io/CellT
 Follow <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells.
 
 ### Step 3. Get familiar with coding & Jupyter notebooks.
-Learn about the basics of coding & using Jupyter notebooks <a href="https://ajuavinett.github.io/CellTypesLesson/computing">here</a><br/> and work through a sample Jupyter notebook.
+Learn about the basics of coding & using Jupyter notebooks <a href="https://ajuavinett.github.io/CellTypesLesson/computing">here</a> and work through a sample Jupyter notebook.
 
 ### Step 4. Analyze the data for yourself!
 Dive into <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/CellTypesNotebook.ipynb">this Jupyter Notebook</a>! Full instructions on how to do so are <a href="http://ajuavinett.github.io/CellTypesLesson/jupyter_instructions">here</a>.
