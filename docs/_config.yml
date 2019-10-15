@@ -107,6 +107,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
 
 font:
   enable: true
@@ -121,3 +122,6 @@ font:
     family: Lato
     size: 20
 
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
