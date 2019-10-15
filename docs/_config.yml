@@ -9,7 +9,6 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-
 font:
   enable: true
 
@@ -22,6 +21,4 @@ font:
     external: true
     family: Lato
     size: 20
-    
- sidebars:
-   - docs
+  
