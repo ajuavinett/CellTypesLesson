@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 
 logo: https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/celltypes_logo.png?raw=true
 
-
 defaults:
   - scope:
       path: ""
@@ -23,3 +22,6 @@ font:
     external: true
     family: Lato
     size: 20
+    
+ sidebars:
+   - docs
