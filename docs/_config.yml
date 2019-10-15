@@ -1,24 +1,15 @@
 theme: jekyll-theme-minimal
 
-logo: https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/close_notebooks.png?raw=true
+logo: https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/celltypes_logo.png?raw=true
 
 
 defaults:
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _docs
   - scope:
       path: ""
       type: docs
     values:
       sidebar:
         nav: "docs"
-  
 
 font:
   enable: true
