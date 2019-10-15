@@ -12,11 +12,13 @@ Before we go behind the scenes, we’ll look at a few cells on the Allen online 
 
 5. Click through the stimulus sweeps (the colored boxes) to find the first one that elicited an action potential.
 Record the minimum stimulus amplitude required to elicit an action potential in this cell in Table 1.
-<u>Note</u>: You should notice that this value is either very close or identical to the rheobase of the cell, as reported on the table on the top. As a reminder, the rheobase is defined as the minimum current needed to elicit an action potential. When the current is below the rheobase, an action potential will never occur regardless of how long the stimulation is.
+<u>Note</u>: You should notice that this value is either very close or identical to the rheobase of the cell, as reported on the table on the top. As a reminder, the <b>rheobase</b> is defined as the minimum current needed to elicit an action potential. When the current is below the rheobase, an action potential will never occur regardless of how long the stimulation is.
 
 6. Click through to a stimulus sweep with a higher current injection. Does the cell adapt to the stimulus? In other words, does the space between spikes increase? Is there a metric here that would help quantify this? Record that metric in Table 1.
 
-7. Use the dropdown menu on the left to change the stimulus type to “Short square.” Record the minimum current needed to elicit an action potential at this stimulus, and answer question 4.
+7. Use the dropdown menu on the left to change the stimulus type to “Short square.” Look at how the current injection trace changes -- now, it's a shorter pulse. Record the minimum current needed to elicit an action potential at this stimulus, and answer question 4.
+
+> Wondering what these 'square' pulses mean? Square simply describes the shape of the stimulus, and it's a common way to inject current into cells. There are more details on the stimuli the Allen used <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/stimuli.png?raw=true">here</a>.
 
 8. Use the dropdown menu on the left to change the stimulus type to “Noise.” Take a look at the current injection trace to get an idea of what this stimulus looks like. Note the differences between the cell’s response to this stimulus versus the square wave pulses. Answer question 5.
 
@@ -24,6 +26,7 @@ Record the minimum stimulus amplitude required to elicit an action potential in 
 
 10. Click on Cell Feature Search on the top right corner. Here, you can look through other cells in this dataset. Find a cell from human tissue that is in the <b>same Layer</b> and has the <b>same Dendrite Type</b> as the first cell you looked at. Use the data on that page to fill out Table 1.
 
+<br><br>
 
 ### Data Notebook
 
@@ -56,6 +59,4 @@ Table 1.
 
 
 
-
-### <a href="https://ajuavinett.github.io/CellTypesLesson/">Back to the start page</a>
 ### <a href="https://ajuavinett.github.io/CellTypesLesson/computing">To the next step (Computing Basics)</a>
