@@ -25,7 +25,9 @@ If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise
 4. Type  `git clone http://www.github.com/ajuavinett/CellTypesLesson.git`
 to clone the necessary codebase into your folder.
 
-5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder CellTypesLesson. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
+5. Close the Terminal window. On the Jupyter dashboard, you should now see a folder CellTypesLesson. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook.
+
+6. Once you're done with the introductory notebook, open the CellTypesLesson notebook.
 * <b>Note</b>: When you’re done, go to the Running tab and Shutdown all of your terminal & notebook processes (see orange "Shutdown button":<br><br>
 ![](https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/close_notebooks.png?raw=true)
 
@@ -51,6 +53,5 @@ to clone the lab codebase into your folder.
 * In Terminal,  type `jupyter notebook`
 * Open the Anaconda Navigator, and click on Jupyter Notebook.
 12. A Jupyter Notebook landing page (the Dashboard) should open.
-13. On the dashboard, you should now see a folder CellTypesLesson. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook. Au revoir!
-
-### <a href="https://ajuavinett.github.io/CellTypesLesson/">Back to the start page</a>
+13. On the dashboard, you should now see a folder CellTypesLesson. Click into it, and open “Introduction to Jupyter Notebooks” From here, you can follow the directions in the Jupyter Notebook.
+14. Once you're done with the introductory notebook, open the CellTypesLesson notebook.
