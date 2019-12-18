@@ -11,7 +11,9 @@ Python is a coding language that is widely used in research, data science, and m
 
 ![](https://jupyter.org/assets/nav_logo.svg)
 ## Jupyter Notebooks
-Jupyter Notebooks are great ways to collaborate on coding projects and learn how to code. Usefully, they contain both <i>markdown</i> (helpful text describing what is happening in the notebook) and blocks of code. If you've never used a Jupyter Notebook before, I'd recommend starting with the Introduction to Jupyter Notebooks, found in this repository. There is also a full tutorial <a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook">here.</a>
+Jupyter Notebooks are great ways to collaborate on coding projects and learn how to code. Usefully, they contain both <i>markdown</i> (helpful text describing what is happening in the notebook) and blocks of code. If you've never used a Jupyter Notebook before, I'd recommend starting with the Introduction to Jupyter Notebooks, otherwise, feel free to move on to the Cell Types Notebook.
+
+There is also a full tutorial <a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook">here.</a>
 
 ## Navigation
 ### <a href="https://ajuavinett.github.io/CellTypesLesson/">Back to the start page</a>
