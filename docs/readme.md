@@ -1,4 +1,7 @@
 # Cell Types Lesson
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/CellTypesLesson/master)
+
 #### This GitHub site provides code & background information to complete a lesson plan that explores various cell types in the brain, using the <a href="https://alleninstitute.org/what-we-do/brain-science/">Allen Brain Institute</a> Cell Types dataset.
 
 In this computer lab, we’ll look at open-source data from mouse and human recordings in order to compare cell types from these creatures. We’ll dive into some of the different structures of dendrites, and how these might relate to the shape of their action potentials, and ultimately their role in neural computation.
