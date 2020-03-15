@@ -5,7 +5,7 @@ We could spend all day going through the cells in the website database to find s
 If you're at UC San Diego, you should run this code on the UCSD Data Hub (Option 2 below). Otherwise, you can run it on Binder, or locally on your computer.
 
 #### Option 1: From Binder
-This is the easiest option (if you're not at UCSD). Just click the button below to launch these notebooks. Once you're done with the introductory notebook, open the CellTypesLesson notebook.
+This is the easiest option (if you're not at UCSD), though the code itself will run more slowly. Simply click the button below to launch a dashboard containing both notebooks. Once you're done with the Introductory notebook, open CellTypesNotebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/CellTypesLesson/master)
 
