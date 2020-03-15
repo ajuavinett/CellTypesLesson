@@ -1,14 +1,3 @@
----
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    
----
 
 ##  Accessing the Allen SDK
 We could spend all day going through the cells in the website database to find some interesting comparisons. But, it’s much quicker to do these comparisons by accessing the entire database directly, through the Allen Software Development Kit (SDK).
@@ -17,6 +6,7 @@ If you're at UC San Diego, you should run this code on the UCSD Data Hub (Option
 
 #### Option 1: From Binder
 This is the easiest option (if you're not at UCSD). Just click the button below to launch these notebooks. Once you're done with the introductory notebook, open the CellTypesLesson notebook.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/CellTypesLesson/master)
 
 #### Option 2: From the UCSD Data Hub
