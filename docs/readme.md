@@ -15,16 +15,4 @@ In the first part of the lesson, you'll interact with the Allen Institute websit
 
 <i>Before diving in</i>, it would help to have very introductory working knowledge of Python. I'd recommend <a href="https://www.codecademy.com/learn/learn-python-3">this CodeAcademy tutorital for Python3</a>, which covers the basics of variables, `print()`, and arithmetic in Python.
 
-## Steps to completing this lesson
-
-### Step 1. Understand how the data was collected.
-Read a bit about this dataset, here: <a href="https://ajuavinett.github.io/CellTypesLesson/background">About the Allen Institute Cell Types Dataset</a>
-
-### Step 2. Compare cells using the Allen website.
-Follow <a href="https://ajuavinett.github.io/CellTypesLesson/instructions">these instructions</a> to use the Allen's web interface to look at two different cells.
-
-### Step 3. Get familiar with coding & Jupyter notebooks.
-Learn about the basics of coding & using Jupyter notebooks <a href="https://ajuavinett.github.io/CellTypesLesson/computing">here</a> and work through a sample Jupyter notebook.
-
-### Step 4. Analyze the data for yourself!
-Dive into <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/CellTypesNotebook.ipynb">this Jupyter Notebook</a>! Full instructions on how to do so are <a href="http://ajuavinett.github.io/CellTypesLesson/jupyter_instructions">here</a>.
+Please see <a href="https://sites.google.com/ucsd.edu/neuroedu/cell-types">this website</a> for a full description of the activities contained here. 
