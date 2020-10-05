@@ -1,21 +1,15 @@
----
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    
----
 
 ##  Accessing the Allen SDK
 We could spend all day going through the cells in the website database to find some interesting comparisons. But, it’s much quicker to do these comparisons by accessing the entire database directly, through the Allen Software Development Kit (SDK).
 
-If you're at UC San Diego, you can run this code on the UCSD Data Hub. Otherwise, you can run it locally on your computer.
+If you're at UC San Diego, you should run this code on the UCSD Data Hub (Option 2 below). Otherwise, you can run it on Binder, or locally on your computer.
 
-#### Option 1: From the UCSD Data Hub
+#### Option 1: From Binder
+This is the easiest option (if you're not at UCSD), though the code itself will run more slowly. Simply click the button below to launch a dashboard containing both notebooks. Once you're done with the Introductory notebook, open CellTypesNotebook.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/CellTypesLesson/master)
+
+#### Option 2: From the UCSD Data Hub
 1. While either on campus or connected via VPN, go to <a href="http://datahub.ucsd.edu">http://datahub.ucsd.edu</a> and log in.
 
 2. You’ll land on a page where you’re asked to choose a container to spawn. Choose the container with your course name.
@@ -31,7 +25,7 @@ to clone the necessary codebase into your folder.
 * <b>Note</b>: When you’re done, go to the Running tab and Shutdown all of your terminal & notebook processes (see orange "Shutdown button":<br><br>
 ![](https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/close_notebooks.png?raw=true)
 
-#### Option 2: From a local computer
+#### Option 3: From a local computer
 If you’d like to access the SDK locally, follow these steps. 
 <u>Note</u>: If you’re in BIPN145, you should do this lab through the Data Hub (Option 1 above).
 

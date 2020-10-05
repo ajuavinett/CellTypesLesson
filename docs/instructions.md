@@ -18,7 +18,7 @@ Record the minimum stimulus amplitude required to elicit an action potential in 
 
 7. Use the dropdown menu on the left to change the stimulus type to “Short square.” Look at how the current injection trace changes -- now, it's a shorter pulse. Record the minimum current needed to elicit an action potential at this stimulus, and answer question 4.
 
-> Wondering what these 'square' pulses mean? Square simply describes the shape of the stimulus, and it's a common way to inject current into cells. There are more details on the stimuli the Allen used <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/stimuli.png?raw=true">here</a>.
+<i>Wondering what these 'square' pulses mean? Square simply describes the shape of the stimulus, and it's a common way to inject current into cells. There are more details on the stimuli the Allen used <a href="https://github.com/ajuavinett/CellTypesLesson/blob/master/docs/stimuli.png?raw=true">here</a>.</i>
 
 8. Use the dropdown menu on the left to change the stimulus type to “Noise.” Take a look at the current injection trace to get an idea of what this stimulus looks like. Note the differences between the cell’s response to this stimulus versus the square wave pulses. Answer question 5.
 
