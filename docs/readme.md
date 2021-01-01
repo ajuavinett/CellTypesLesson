@@ -17,4 +17,5 @@ Email ajuavine[at]ucsd.edu
 
 ### License
 This work is under a [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/).
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+
+![](https://i.creativecommons.org/l/by/3.0/88x31.png)
