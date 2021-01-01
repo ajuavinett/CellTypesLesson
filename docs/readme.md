@@ -16,6 +16,6 @@ This GitHub repository provides code to complete a lesson plan to explore differ
 Email ajuavine[at]ucsd.edu
 
 ### License
-This work is under a [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/).
+This work is under a [CC-BY-SA-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/).
 
-![](https://i.creativecommons.org/l/by/3.0/88x31.png)
+![](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
