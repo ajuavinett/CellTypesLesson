@@ -5,6 +5,6 @@
 # More info at: https://github.com/jazzband/pip-tools
 
 matplotlib==3.2.2
-numpy==1.18.5
+numpy==1.22.0
 pandas==0.25.3
 allensdk==2.2.0			
